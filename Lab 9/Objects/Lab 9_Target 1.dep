@@ -1,0 +1,7 @@
+Dependencies for Project 'Lab 9', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::ARMCC
+F (.\Lab9.c)(0x65FE11B4)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Users\Public\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Public\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-D__UVISION_VERSION="529" -D_RTE_ -DMKL25Z128xxx4-o .\objects\lab9.o --omf_browse .\objects\lab9.crf --depend .\objects\lab9.d)
+F (.\PIT.c)(0x65FA8B0A)()
+F (RTE/Device/MKL25Z128xxx4/startup_MKL25Z4.s)(0x5644FD9A)()
+F (RTE/Device/MKL25Z128xxx4/system_MKL25Z4.c)(0x5644FD9A)()
+F (RTE/Device/MKL25Z128xxx4/system_MKL25Z4.h)(0x5644FD9A)()
